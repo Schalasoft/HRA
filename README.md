@@ -9,3 +9,32 @@ Setup
 1) A valid connection string must be provided, please see:
     
 XXX_ENTER A VALID CONNECTION STRING_XXX
+
+Use Cases
+Users
+- Can log in
+- Can log out
+
+Administrators
+- Can create user
+- Can read user
+- Can edit user (including username and password)
+- Can delete user
+- Can assign user permissions --- groups that use custom permissions
+- Can remove user permissions
+- Cannot delete their own user *
+- Cannot edit their own user *
+
+Employees
+- Can view their own information
+- Cannot view any other users information
+
+Managers
+- Can view information of employees that report to them
+- Cannot view information of employees that do not report to them
+- Can edit information of employees that report to them
+- Cannot edit information of employees that do not report to them
+
+Human Resource Personnel
+- Can view all employee information except other Human Resource Personnel, unless they report to them
+- Can view Human Resource Personnel information that report to them
