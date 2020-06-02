@@ -1,4 +1,4 @@
-This is a Human Resources Application made as part of an interview process with the intent of showcasing:
+This is a Human Resources Application written in C#, Javacript, and HTML that was made as part of an interview process with the intent of showcasing:
 1) SOLID principles
 2) Continuous integration
 3) Continous deployment
