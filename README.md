@@ -1,3 +1,4 @@
+Overview
 This is a Human Resources Application written in C#, Javacript, and HTML that was made as part of an interview process with the intent of showcasing:
 1) SOLID principles
 2) Continuous integration
@@ -5,12 +6,8 @@ This is a Human Resources Application written in C#, Javacript, and HTML that wa
 4) Automated unit testing
 5) APIs for individual parts (e.g. Authentication, Authorization)
 
-Setup
-1) A valid connection string must be provided, please see:
-    
-XXX_ENTER A VALID CONNECTION STRING_XXX
+Use Cases (created from requirements document)
 
-Use Cases
 Users
 - Can log in
 - Can log out
@@ -38,3 +35,8 @@ Managers
 Human Resource Personnel
 - Can view all employee information except other Human Resource Personnel, unless they report to them
 - Can view Human Resource Personnel information that report to them
+
+Setup
+1) A valid connection string must be provided, please see:
+    
+XXX_ENTER A VALID CONNECTION STRING_XXX
