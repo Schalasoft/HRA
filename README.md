@@ -6,6 +6,6 @@ This is a Human Resources Application made as part of an interview process with 
 5) APIs for individual parts (e.g. Authentication, Authorization)
 
 Setup
-A valid connection string must be provided, please see:
+1) A valid connection string must be provided, please see:
     
 XXX_ENTER A VALID CONNECTION STRING_XXX
