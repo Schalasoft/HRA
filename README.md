@@ -6,7 +6,7 @@ This is a Human Resources Application written in C#, Javacript, and HTML that wa
 4) Automated unit testing
 5) APIs for individual parts (e.g. Authentication, Authorization)
 
-Use Cases (created from requirements document)
+Use Cases (created from requirements document which I cannot show so as to respect the employers interview process intellectual property)
 
 Users
 - Can log in
