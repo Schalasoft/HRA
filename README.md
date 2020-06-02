@@ -1,8 +1,11 @@
-# HRA
-Technical Audition
+This is a Human Resources Application made as part of an interview process with the intent of showcasing:
+1) SOLID principles
+2) Continuous integration
+3) Continous deployment
+4) Automated unit testing
+5) APIs for individual parts (e.g. Authentication, Authorization)
 
-This is a Human Resources Application made as part of an interview process. I decided against the company in the end but I thought I'd hang on to the work that was put in as it is a nice playground for implementing SOLID principles.
-
+Setup
 A valid connection string must be provided, please see:
     
-XXX_ENTER A VALID CONNECTION STRING_X
+XXX_ENTER A VALID CONNECTION STRING_XXX
